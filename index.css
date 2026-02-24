@@ -22,7 +22,7 @@ body {
     box-shadow: 0 10px 40px rgba(0,0,0,0.2);
 }
 
-h1 {
+h1,h2 {
     text-align: center;
     color: #333;
     margin-bottom: 25px;
